@@ -104,7 +104,7 @@ let opt = {
   filename:     'BurakKazan-resume.pdf',
   image:        { type: 'jpeg', quality: 0.98 },
   html2canvas:  { scale: 4 },
-  jsPDF:        { format: 'a6', orientation: 'landscape' }
+  jsPDF:        { format: 'a3', orientation: 'landscape' }
 };
 
 /* Function to call areaCv and Html2Pdf options */
